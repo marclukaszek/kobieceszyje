@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/kobieceszyje/static/css/main.cdf84cc0.css",
+    "main.css": "/kobieceszyje/static/css/main.172bf6a0.css",
     "main.js": "/kobieceszyje/static/js/main.ce48a624.js",
     "static/media/ai.png": "/kobieceszyje/static/media/ai.aa60586ba1ba53762d94.png",
     "static/media/possibility.png": "/kobieceszyje/static/media/possibility.525f13b61a2157d44de0.png",
@@ -18,11 +18,11 @@
     "static/media/people.png": "/kobieceszyje/static/media/people.5cd2d6fbcd48bd63f106.png",
     "static/media/logo.svg": "/kobieceszyje/static/media/logo.5114679faa0cce74946769ded97f1c89.svg",
     "index.html": "/kobieceszyje/index.html",
-    "main.cdf84cc0.css.map": "/kobieceszyje/static/css/main.cdf84cc0.css.map",
+    "main.172bf6a0.css.map": "/kobieceszyje/static/css/main.172bf6a0.css.map",
     "main.ce48a624.js.map": "/kobieceszyje/static/js/main.ce48a624.js.map"
   },
   "entrypoints": [
-    "static/css/main.cdf84cc0.css",
+    "static/css/main.172bf6a0.css",
     "static/js/main.ce48a624.js"
   ]
 }
