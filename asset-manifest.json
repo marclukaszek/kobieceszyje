@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/kobieceszyje/static/css/main.cdf84cc0.css",
+    "main.js": "/kobieceszyje/static/js/main.ce48a624.js",
+    "static/media/ai.png": "/kobieceszyje/static/media/ai.aa60586ba1ba53762d94.png",
+    "static/media/possibility.png": "/kobieceszyje/static/media/possibility.525f13b61a2157d44de0.png",
+    "static/media/blog01.png": "/kobieceszyje/static/media/blog01.cefc0932eae0d33a0342.png",
+    "static/media/blog03.png": "/kobieceszyje/static/media/blog03.d922323861096f25274f.png",
+    "static/media/blog04.png": "/kobieceszyje/static/media/blog04.742c1357e7b6c11078e6.png",
+    "static/media/blog05.png": "/kobieceszyje/static/media/blog05.bfaa1c1e3851158e0e1f.png",
+    "static/media/blog02.png": "/kobieceszyje/static/media/blog02.ab0eb367561796e91532.png",
+    "static/media/wine_glass.png": "/kobieceszyje/static/media/wine_glass.ec51361ec46bec83d0e7.png",
+    "static/media/img3.jpeg": "/kobieceszyje/static/media/img3.b155dcb3dab2514ec74a.jpeg",
+    "static/media/img2.jpeg": "/kobieceszyje/static/media/img2.3f4de02f9b726cfe6262.jpeg",
+    "static/media/wine_bottle.png": "/kobieceszyje/static/media/wine_bottle.cc1cd4e33b8f72c8fa88.png",
+    "static/media/logo9.png": "/kobieceszyje/static/media/logo9.a42fe2a73eadfdf31a1e.png",
+    "static/media/img1.jpeg": "/kobieceszyje/static/media/img1.8a4608ee1abbabbc2831.jpeg",
+    "static/media/people.png": "/kobieceszyje/static/media/people.5cd2d6fbcd48bd63f106.png",
+    "static/media/logo.svg": "/kobieceszyje/static/media/logo.5114679faa0cce74946769ded97f1c89.svg",
+    "index.html": "/kobieceszyje/index.html",
+    "main.cdf84cc0.css.map": "/kobieceszyje/static/css/main.cdf84cc0.css.map",
+    "main.ce48a624.js.map": "/kobieceszyje/static/js/main.ce48a624.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cdf84cc0.css",
+    "static/js/main.ce48a624.js"
+  ]
+}
