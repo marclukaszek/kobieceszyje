@@ -11,14 +11,17 @@ const Possibility = () => {
     {
       id: 1,
       imgSrc: Img1,
+      title: "Ania. Lubi wino, nawet bardzo, czasem można ją zobaczyć otwierającą drzwi z bordowymi ustami po nim :)"
     },
     {
       id: 2,
       imgSrc: Img2,
+      title: "Patrycja. Lubi Frizzante oraz whiskey - pije tylko saute - Cola jest ble..."
     },
     {
       id: 3,
       imgSrc: Img3,
+      title: "Magda. Magda pije wszystko..."
     },
   ]
 
@@ -38,21 +41,22 @@ const Possibility = () => {
        {/*} <div className='gpt3__possibility-image'>
             <img src={possibilityImage} alt='possibility' />
   </div>*/}
+  
         <div className='gpt3__possibility-content'>
+        <h1 className='gradient__text'>Nasi członkowie</h1>
+        <h4>Tak naprawdę to tylko garstka z nich</h4>
           <div className='gpt3__possibility-content-gallery'>
             {data.map((item, index)=>{
               return(
                 <div className='pics' key={index} onClick={()=>getImg(item.imgSrc)}>
                   <img src={item.imgSrc} style={{width: '100%'}} />
+                  <p>{item.title}</p>
+
                 </div>
 
               )
             })}
             </div>
-            <h4>Request Early Access to Get Started</h4>
-            <h1 className='gradient__text'>The possibilities are beyond your imagination</h1>
-            <p>Yet bed any for travelling assistance indulgence unpleasing. Not thoughts all exercise blessing. Indulgence way everything joy alteration boisterous the attachment. Party we years to order allow asked of.</p>
-            <h4>Request Early Access to Get Started</h4>
         </div>
     </div>
   </>

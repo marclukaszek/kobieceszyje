@@ -4,20 +4,20 @@ import { Feature } from '../../components';
 
 const featuresData = [
     {
-        title: 'Improving end distrusts instantly',
-        text: 'From they fine john he give of rich he. They age and draw mrs like. Improving end distrusts may instantly was household applauded.',
+        title: 'Zabawa',
+        text: 'Zabawa stanowi duża część naszego życia. Zabawa z alkoholem może być tylko przyjemniejsza. Alkohol pozwala nam się rozluźnić oraz otworzyć.',
     },
     {
-        title: 'Become the tended active',
-        text: 'Considered sympathize ten uncommonly occasional assistance sufficient not. Letter of on become he tended active enable to.',
+        title: 'Sumienność',
+        text: 'Większość z naszych członkiń lubi pić często, najlepiej było by codziennie ale minimum to przynajmniej raz w tygodniu...',
     },
     {
-        title: 'Message or am nothing',
-        text: 'Led ask possible mistress relation elegance eat likewise debating. By message or am nothing amongst chiefly address.',
+        title: 'Integracja',
+        text: 'Każda z nas wie, że picie do lustra nie jest niczym przyjmnym. Najlepiej spotkać się w gronie innych klubowiczów lub znajomych. My robimy to praktycznie co weekend.',
     },
     {
-        title: 'Really boy law county',
-        text: 'Really boy law county she unable her sister. Feet you off its like like six. Among sex are leave law built now. In built table in an rapid blush.',
+        title: 'Samorozwój',
+        text: '"Trening czyni mistrza" - to sformułowanie słyszymy od lat. Wiadomo jest, że jeśli będziemy pić często, będziemy też mogły wypić znacznie więcej, lepiej się bawić i nie martwić się kacem.',
     },
 
 ]
@@ -26,8 +26,8 @@ const Features = () => {
   return (
     <div className='gpt3__features section__padding' id='features'>
         <div className='gpt3__features-heading'>
-            <h1 className='gradient__text'>The Future is Now and You Just Need To Realize It. Step into Future Today & Make it Happen</h1>
-            <p>Request Early Access to Get Started</p>
+            <h1 className='gradient__text'>Zasady są jedną z najważniejszych rzeczy z ludzkim życiu, tak też jest w naszym klubie.</h1>
+            <p>Dołącz do nas już dzisiaj!</p>
         </div>
         <div className='gpt3__features-container'>
             {featuresData.map((item, index) => (

@@ -1,13 +1,11 @@
-import google from '../../assets/google.png'
-import slack from '../../assets/slack.png'
-import atlassian from '../../assets/atlassian.png'
-import dropbox from '../../assets/dropbox.png'
-import shopify from '../../assets/shopify.png'
+import myslowice from '../../assets/myslowice.png'
+import biedronka from '../../assets/biedronka.png'
+import zabka from '../../assets/zabka.png'
+import shot from '../../assets/shot.png'
 
 export{
-    google,
-    slack,
-    atlassian,
-    dropbox,
-    shopify,
+    myslowice,
+    biedronka,
+    zabka,
+    shot,
 } 

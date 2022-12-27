@@ -1,39 +1,40 @@
 import React from 'react'
 import './footer.css';
 import gpt3Logo from '../../assets/logo.svg'
+import logo from '../../assets/logo9.png'
 
 const Footer = () => {
   return (
     <div className='gpt3__footer section__padding'>
         <div className='gpt3__footer-heading'>
-            <h1 className='gradient__text'>Do you want to step in to the future before others?</h1>
+            <h1 className='gradient__text'>Naprawdę chcesz zostać w tyle?</h1>
         </div>
         <div className='gpt3__footer-btn'>
-            <p>Request Early Access</p>
+            <p>Dołącz</p>
         </div>
         <div className='gpt3__footer-links'>
             <div className='gpt3__footer-links_logo'>
-                <img src={gpt3Logo} alt='logo'/>
+                <img src={logo} alt='logo'/>
                 <p>YamaCode, 2022</p>
                 <p>All Rights Reserved</p>
             </div>
             <div className='gpt3__footer-links_div'>
                 <h4>Links</h4>
-                <p>Overons</p>
+                <p>Patroni</p>
                 <p>Social Media</p>
-                <p>Counters</p>
-                <p>Contact</p>
+                <p>Lista członków</p>
+                <p>Kontakt</p>
             </div>
             <div className='gpt3__footer-links_div'>
-                <h4>Company</h4>
-                <p>Terms&Conditions</p>
-                <p>Privacy policy</p>
-                <p>Contact</p>
+                <h4>Klub</h4>
+                <p>Regulacje prawne</p>
+                <p>Polityka prywatności</p>
+                <p>Kontakt</p>
             </div>
             <div className='gpt3__footer-links_div'>
-                <h4>Get in touch</h4>
-                <p>Nygi 7 41-400 Mysłowice</p>
-                <p>+48513490024</p>
+                <h4>Webmastering</h4>
+                <p>41-400 Mysłowice</p>
+                <p>+4851x490x24</p>
                 <p>marlukaszek@gmail.com</p>
             </div>
         </div>

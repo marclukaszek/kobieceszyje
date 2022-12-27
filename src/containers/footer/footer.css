@@ -64,8 +64,8 @@
 }
 
 .gpt3__footer-links_logo img{
-    width: 118px;
-    height: 30px;
+    width: 150px;
+    height: auto;
     margin-bottom: 1rem;
 }
 
@@ -74,6 +74,7 @@
     font-size: 12px;
     line-height: 14px;
     color: #fff;
+    margin-left: 8px;
 }
 
 .gpt3__footer-links_div{
