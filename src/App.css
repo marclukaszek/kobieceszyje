@@ -34,6 +34,13 @@ a {
     -webkit-text-fill-color: transparent;
 }
 
+.gradient__text__boczny {
+    background: var(--gradient-text);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    padding-top: 3rem;    
+}
 .section__padding {
     padding: 1rem 6rem;
 }

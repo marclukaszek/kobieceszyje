@@ -11,7 +11,7 @@ const Header = () => {
         <div className='gpt3__header-content'>
             <h1 className='gradient__text'>Dołącz do najprężniej rozwijającego się damskiego klubu!</h1>
             <p>Zrzeszamy kobiety, które wiedzą, że czasami po prostu trzeba się napić - każda z nas na to zasługuje. Dołącz do nas!</p>
-            <p>PS. Wcale nie musisz być kobietą, mężczyzni również są mile widziani...</p>
+            <p>PS. Wcale nie musisz być kobietą, mężczyźni również są mile widziani...</p>
             <div className='gpt3__header-content__input'>
                 <input type='email' placeholder='Twój adres email'></input>
                 <button type='button'>Zapisz się</button>

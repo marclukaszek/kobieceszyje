@@ -5,19 +5,19 @@ import { Feature } from '../../components';
 const featuresData = [
     {
         title: 'Zabawa',
-        text: 'Zabawa stanowi duża część naszego życia. Zabawa z alkoholem może być tylko przyjemniejsza. Alkohol pozwala nam się rozluźnić oraz otworzyć.',
+        text: 'Zabawa stanowi dużą część naszego życia. Zabawa z alkoholem może być tylko przyjemniejsza. Alkohol pozwala nam się rozluźnić oraz otworzyć.',
     },
     {
         title: 'Sumienność',
-        text: 'Większość z naszych członkiń lubi pić często, najlepiej było by codziennie ale minimum to przynajmniej raz w tygodniu...',
+        text: 'Większość z naszych członkiń lubi pić często, najlepiej byłoby codziennie, ale minimum to przynajmniej raz w tygodniu...',
     },
     {
         title: 'Integracja',
-        text: 'Każda z nas wie, że picie do lustra nie jest niczym przyjmnym. Najlepiej spotkać się w gronie innych klubowiczów lub znajomych. My robimy to praktycznie co weekend.',
+        text: 'Każda z nas wie, że picie do lustra nie jest niczym przyjemnym. Najlepiej spotkać się w gronie innych klubowiczów lub znajomych. My robimy to praktycznie, co weekend. Wspólne picie, wydłuża życie!',
     },
     {
         title: 'Samorozwój',
-        text: '"Trening czyni mistrza" - to sformułowanie słyszymy od lat. Wiadomo jest, że jeśli będziemy pić często, będziemy też mogły wypić znacznie więcej, lepiej się bawić i nie martwić się kacem.',
+        text: '"Trening czyni mistrza" - to sformułowanie słyszymy od lat. Wiadomo, że jeśli będziemy pić często, będziemy też mogły wypić znacznie więcej, lepiej się bawić i nie martwić kacem.',
     },
 
 ]

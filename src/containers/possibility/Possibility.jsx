@@ -4,6 +4,7 @@ import possibilityImage from '../../assets/possibility.png'
 import Img1 from '../../img/img1.jpeg'
 import Img2 from '../../img/img2.jpeg'
 import Img3 from '../../img/img3.jpeg'
+import Img4 from '../../img/img4.png'
 import CloseIcon from '@material-ui/icons/Close';
 
 const Possibility = () => {
@@ -11,17 +12,17 @@ const Possibility = () => {
     {
       id: 1,
       imgSrc: Img1,
-      title: "Ania. Lubi wino, nawet bardzo, czasem można ją zobaczyć otwierającą drzwi z bordowymi ustami po nim :)"
+      title: "Ania. Koneserka czerwonego wina, do tego stopnia, że usta same barwią jej się na bordowo :)"
     },
     {
       id: 2,
       imgSrc: Img2,
-      title: "Patrycja. Lubi Frizzante oraz whiskey - pije tylko saute - Cola jest ble..."
+      title: "Patrycja. Lubi Frizzante oraz whisky - pije tylko saute. Po zabawie najchętniej odpoczywa leżąc na ziemi."
     },
     {
       id: 3,
-      imgSrc: Img3,
-      title: "Magda. Magda pije wszystko..."
+      imgSrc: Img4,
+      title: "Natalia. Uwielbia Prosseco oraz bąbelkowy zawrót głowy zaraz po nim."
     },
   ]
 
@@ -44,7 +45,7 @@ const Possibility = () => {
   
         <div className='gpt3__possibility-content'>
         <h1 className='gradient__text'>Nasi członkowie</h1>
-        <h4>Tak naprawdę to tylko garstka z nich</h4>
+        <h4>Tak naprawdę, to tylko garstka z nich</h4>
           <div className='gpt3__possibility-content-gallery'>
             {data.map((item, index)=>{
               return(
