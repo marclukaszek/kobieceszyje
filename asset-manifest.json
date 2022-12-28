@@ -1,28 +1,32 @@
 {
   "files": {
-    "main.css": "/kobieceszyje/static/css/main.172bf6a0.css",
-    "main.js": "/kobieceszyje/static/js/main.ce48a624.js",
+    "main.css": "/kobieceszyje/static/css/main.6cc9f208.css",
+    "main.js": "/kobieceszyje/static/js/main.5fa11b26.js",
     "static/media/ai.png": "/kobieceszyje/static/media/ai.aa60586ba1ba53762d94.png",
     "static/media/possibility.png": "/kobieceszyje/static/media/possibility.525f13b61a2157d44de0.png",
-    "static/media/blog01.png": "/kobieceszyje/static/media/blog01.cefc0932eae0d33a0342.png",
-    "static/media/blog03.png": "/kobieceszyje/static/media/blog03.d922323861096f25274f.png",
-    "static/media/blog04.png": "/kobieceszyje/static/media/blog04.742c1357e7b6c11078e6.png",
-    "static/media/blog05.png": "/kobieceszyje/static/media/blog05.bfaa1c1e3851158e0e1f.png",
-    "static/media/blog02.png": "/kobieceszyje/static/media/blog02.ab0eb367561796e91532.png",
+    "static/media/blog01.jpg": "/kobieceszyje/static/media/blog01.f9136adffaf8a2635b63.jpg",
+    "static/media/img4.png": "/kobieceszyje/static/media/img4.cc50371a1225c251ad9c.png",
+    "static/media/blog02.jpg": "/kobieceszyje/static/media/blog02.de096047d6244bb62050.jpg",
+    "static/media/home.jpeg": "/kobieceszyje/static/media/home.b992f2854a2ffc0e8852.jpeg",
+    "static/media/img3.jpeg": "/kobieceszyje/static/media/img3.7900dc03f172fea126b5.jpeg",
+    "static/media/img2.jpeg": "/kobieceszyje/static/media/img2.804e3668894b8a6a72d8.jpeg",
+    "static/media/blog03.jpeg": "/kobieceszyje/static/media/blog03.d5207d89693dd8c020af.jpeg",
+    "static/media/blog05.jpeg": "/kobieceszyje/static/media/blog05.42195f63566f6054c83a.jpeg",
+    "static/media/img1.jpeg": "/kobieceszyje/static/media/img1.34d631b5af34273b9d7e.jpeg",
     "static/media/wine_glass.png": "/kobieceszyje/static/media/wine_glass.ec51361ec46bec83d0e7.png",
-    "static/media/img3.jpeg": "/kobieceszyje/static/media/img3.b155dcb3dab2514ec74a.jpeg",
-    "static/media/img2.jpeg": "/kobieceszyje/static/media/img2.3f4de02f9b726cfe6262.jpeg",
     "static/media/wine_bottle.png": "/kobieceszyje/static/media/wine_bottle.cc1cd4e33b8f72c8fa88.png",
+    "static/media/shot.png": "/kobieceszyje/static/media/shot.6e5b77f80aabe6d7681d.png",
     "static/media/logo9.png": "/kobieceszyje/static/media/logo9.a42fe2a73eadfdf31a1e.png",
-    "static/media/img1.jpeg": "/kobieceszyje/static/media/img1.8a4608ee1abbabbc2831.jpeg",
+    "static/media/myslowice.png": "/kobieceszyje/static/media/myslowice.889e88a4e9d6372982bc.png",
     "static/media/people.png": "/kobieceszyje/static/media/people.5cd2d6fbcd48bd63f106.png",
-    "static/media/logo.svg": "/kobieceszyje/static/media/logo.5114679faa0cce74946769ded97f1c89.svg",
+    "static/media/zabka.png": "/kobieceszyje/static/media/zabka.6ebcf58bd035bc5725eb.png",
+    "static/media/logo.svg": "/kobieceszyje/static/media/logo.16efaf42dda438e5346df59725d9e6a6.svg",
     "index.html": "/kobieceszyje/index.html",
-    "main.172bf6a0.css.map": "/kobieceszyje/static/css/main.172bf6a0.css.map",
-    "main.ce48a624.js.map": "/kobieceszyje/static/js/main.ce48a624.js.map"
+    "main.6cc9f208.css.map": "/kobieceszyje/static/css/main.6cc9f208.css.map",
+    "main.5fa11b26.js.map": "/kobieceszyje/static/js/main.5fa11b26.js.map"
   },
   "entrypoints": [
-    "static/css/main.172bf6a0.css",
-    "static/js/main.ce48a624.js"
+    "static/css/main.6cc9f208.css",
+    "static/js/main.5fa11b26.js"
   ]
 }
