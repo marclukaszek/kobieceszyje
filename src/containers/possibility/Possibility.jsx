@@ -17,13 +17,18 @@ const Possibility = () => {
     {
       id: 2,
       imgSrc: Img2,
-      title: "Patrycja. Lubi Frizzante oraz whisky - pije tylko saute. Po zabawie najchętniej odpoczywa leżąc na ziemi."
+      title: "Patrycja. Lubi wszystkie alkohole a najbardziej je mieszać ze sobą, po czym zazwyczaj odpoczywa leżąc na ziemi."
     },
     {
       id: 3,
       imgSrc: Img4,
       title: "Natalia. Uwielbia Prosseco oraz bąbelkowy zawrót głowy zaraz po nim."
     },
+    {
+      id:4,
+      imgSrc: Img3,
+      title: "Magda. Nigdy nie pozwostawia przyjaciółek w potrzebie, nawet jeśli nie chce i tak pije."
+    }
   ]
 
   const [model, setModel] = useState(false);
