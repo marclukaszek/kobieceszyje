@@ -160,5 +160,9 @@
         font-size: 12px;
         line-height: 16px;
     }
+    .gpt3__header-image img{
+        max-width: 335px;
+        max-height: 251px;
+    }
     
 }

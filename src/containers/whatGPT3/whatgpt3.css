@@ -113,6 +113,14 @@
         flex-direction: column;
     }
 
+    .gpt3__whatgpt3-feature{
+        flex-direction: column;
+    }
+
+    .gpt3__whatgpt3-feature h1.gradient__text__boczny{
+        padding-top: 0;
+    }
+
     /* Customizing feature component as per needs */
     .gpt3__whatgpt3-feature .gpt3__features-container_feature-text {
         margin-top: 0.5rem;

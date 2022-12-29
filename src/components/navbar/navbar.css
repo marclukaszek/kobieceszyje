@@ -142,4 +142,8 @@
     .gpt3__navbar-menu_container-links-sign{
         display: block;
     }
+    .gpt3__navbar-links_logo img{
+        max-width: 250px;
+        max-height: 90px;
+    }
 }
